@@ -1,0 +1,8 @@
+#eclipse
+.project
+.classpath
+.settings/
+
+#wildfly server
+standalone_xml_history/
+log/
