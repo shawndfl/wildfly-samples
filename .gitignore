@@ -6,3 +6,5 @@
 #wildfly server
 standalone_xml_history/
 log/
+content/
+tmp/
