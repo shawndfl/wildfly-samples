@@ -406,4 +406,9 @@
         </outbound-socket-binding>
     </socket-binding-group>
 
+    <deployments>
+        <deployment name="backend-0.0.1-SNAPSHOT.war" runtime-name="backend-0.0.1-SNAPSHOT.war">
+            <content sha1="d957dad8f9d25c5133a0834d25bb29741b258793"/>
+        </deployment>
+    </deployments>
 </server>
