@@ -405,4 +405,10 @@
             <remote-destination host="localhost" port="25"/>
         </outbound-socket-binding>
     </socket-binding-group>
+
+    <deployments>
+        <deployment name="webservice-1.0.0-SNAPSHOT.war" runtime-name="webservice-1.0.0-SNAPSHOT.war">
+            <content sha1="2d1edee7dc052c82e93f6f0f849212aecdd5a202"/>
+        </deployment>
+    </deployments>
 </server>

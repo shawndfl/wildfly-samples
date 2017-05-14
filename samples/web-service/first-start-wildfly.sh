@@ -14,4 +14,4 @@ mkdir -p server/deployments
 #
 # Start wildfly. Make sure $WF_HOME/bin is in your PATH environment variable.
 #
-standalone.sh --properties=./jboss.properties -Djboss.server.log.dir=./server/log
+standalone.sh --properties=./jboss.properties -Djboss.server.log.dir=./server/log 
