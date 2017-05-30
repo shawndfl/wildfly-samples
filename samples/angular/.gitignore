@@ -1,0 +1,5 @@
+# Ignore standalone.xml because it is copied from standalone.base.xml
+standalone.xml
+
+# Also ignore logging.properties because the filename will keep changing.
+logging.properties

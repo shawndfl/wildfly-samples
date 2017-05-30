@@ -406,9 +406,4 @@
         </outbound-socket-binding>
     </socket-binding-group>
 
-    <deployments>
-        <deployment name="webservice-1.0.0-SNAPSHOT.war" runtime-name="webservice-1.0.0-SNAPSHOT.war">
-            <content sha1="d72654d0a26bc28b12ef0790a0f32a9d91a11b42"/>
-        </deployment>
-    </deployments>
 </server>
